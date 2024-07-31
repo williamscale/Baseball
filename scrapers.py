@@ -1,0 +1,5 @@
+from pybaseball import statcast_single_game
+
+games_073024 = [746441, 747005, 745546, 745060, 745787, 746683, 746926,
+	745149, 745958, 746365, 746763, 746197, 745389, 747167, 745309]
+# data1 = statcast_single_game(529429)
